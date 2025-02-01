@@ -17,7 +17,6 @@
 /* Key Matrix Assignments */
 #define MATRIX_ROW_PINS { D3, D2, D0, D1, D4, D7 }
 #define MATRIX_COL_PINS { F4, F5, F6, F7, B1, B3, B2 }
-#define UNUSED_PINS
 
 /* Diode Direction */
 #define DIODE_DIRECTION COL2ROW  // Common for handwired keyboards
